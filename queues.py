@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# definição: uma coleção de dados onde onde novos itens vão sendo inseridos nas posições iniciais do array
+# definição: uma coleção de dados onde onde novos itens vão sendo inseridos nas posições iniciais do array (primeiro que entra, primeiro que sai)
 
 # fonte: https://panda.ime.usp.br/pythonds/static/pythonds_pt/03-EDBasicos/12-FilaImplementacao.html
 
