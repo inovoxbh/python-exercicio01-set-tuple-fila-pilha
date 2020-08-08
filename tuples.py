@@ -10,7 +10,7 @@ def print_tuple(tuple_to_be_printed):
     print("#########################")
 
 # criação de uma tuple: 
-my_tuple = ("João","Lucas","Matheus","Marcos")
+my_tuple = ("Mateus","Marcos","Lucas","João")
 print("Tuple original")
 print_tuple(my_tuple)
 

@@ -10,7 +10,7 @@ def print_set(set_to_be_printed):
     print("#########################")
 
 # criação de uma set: 
-my_set = {"João","Lucas","Matheus","Marcos"}
+my_set = {"Mateus","Marcos","Lucas","João"}
 print("Set original")
 print_set(my_set)
 
