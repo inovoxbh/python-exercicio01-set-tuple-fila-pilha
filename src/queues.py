@@ -29,11 +29,11 @@ Queue01.insert("Lucas")
 Queue01.insert("João")
 
 # imprimindo lista
-print("Fila original (ordem decrescente inserção)")
+print("Fila original")
 Queue01.printQueue()
 print("#####################")
 
-# removendo primeiro item inserido na lista
+# removendo primeiro item inserido na fila
 Queue01.delete()
-print("Fila com primeiro dos itens deletado")
+print("Deletando início da fila (o primeiro que chegou)")
 Queue01.printQueue()
